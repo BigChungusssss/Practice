@@ -1,4 +1,2 @@
-print Hello squad
-Hello world;
+print ("Hello World");
 
-q
